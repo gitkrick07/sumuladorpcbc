@@ -1,0 +1,6 @@
+﻿  Auxiliar.cpp
+  Main.cpp
+C:\Users\ko7\source\repos\PCB_2.0\PCB_2.0\Main.cpp(216,6): warning C4101: 'estadoactual': variable local sin referencia
+C:\Users\ko7\source\repos\PCB_2.0\PCB_2.0\Main.cpp(361,36): warning C4805: '==': combinación no segura del tipo 'char' y el tipo 'bool' en la operación
+  Generando código...
+  PCB_2.0.vcxproj -> C:\Users\ko7\source\repos\PCB_2.0\Debug\PCB_2.0.exe
